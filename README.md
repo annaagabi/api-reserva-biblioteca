@@ -3,7 +3,7 @@
 Projeto desenvolvido para o Senai Suíço-Brasileira "Paulo Ernesto Tolle" com o intuito de criar uma aplicação web MERN que faz reservas para a biblioteca.
 
 ## Tecnologias Utilizadas
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongo,express,react)](https://skillicons.dev)
 
 ## Links
 
