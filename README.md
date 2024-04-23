@@ -8,7 +8,7 @@ Projeto desenvolvido para o Senai Suíço-Brasileira "Paulo Ernesto Tolle" com o
 ## Links
 
 ### Protótipo
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/file/dDuR5QLxekF4YcRukvMXWS/Reserva-da-Biblioteca?type=design&node-id=0%3A1&mode=design&t=9wXcxqmlpAflpfsH-1)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/file/dDuR5QLxekF4YcRukvMXWS/Reserva-da-Biblioteca?type=design&node-id=3%3A2&mode=design&t=MVqF4KFQ8E52YfE8-1)
 
 ### API
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://api-reserva-biblioteca.vercel.app/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/annaagabi/api-reserva-biblioteca/)
