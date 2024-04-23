@@ -11,10 +11,10 @@ Projeto desenvolvido para o Senai Suíço-Brasileira "Paulo Ernesto Tolle" com o
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/file/3jh2fMHtKNBtCpr4gr897S/Site-INDMO%2F-PWFE---Escola?type=design&mode=design&t=PsxNFZHqVIRq4pqH-1)
 
 ### API
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://api-reserva-biblioteca.vercel.app/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://api-reserva-biblioteca.vercel.app/)[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/annaagabi/api-reserva-biblioteca/)
 
 ### Consumo da API
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://escola-hepteto.vercel.app/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/annaagabi/reserva-biblioteca/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://reserva-biblioteca.vercel.app/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/annaagabi/reserva-biblioteca/)
 
 ## Autores
 
